@@ -10,7 +10,7 @@
 
 **2.**   :squirrel:
 
-    - Ah, what can ail thee, wretched wight,
+    Ah, what can ail thee, wretched wight,
     So haggard and so woe-begone
     The squirrel's granary is full, 
     And the harvest's done.
